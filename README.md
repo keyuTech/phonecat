@@ -1,3 +1,4 @@
+### phonecat 流程
 1. 创建静态模板
 2. 添加view - 使用angular view模板、model和controller
 3. 使用组件 - 创建 phone-list 组件并引入 html
